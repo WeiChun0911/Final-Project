@@ -1,8 +1,0 @@
-node_modules/
-bower_components/
-*.pem
-*.md
-public/bundle.js
-public/certificate/certrequest.csr
-*.csr
-public/certificate/certrequest.csr
